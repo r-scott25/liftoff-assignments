@@ -16,4 +16,8 @@ Include a link to your public Trello board. Be sure you have user stories added 
 
 ### Project Repo Link
 
+https://trello.com/b/ZHsT2255/liftoff
+
+
 Include a link to your project on GitHub.
+https://github.com/Jul-2022-LC-LiftOff/Adventureland/tree/inventory_page
